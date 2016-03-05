@@ -1,0 +1,43 @@
+body{
+  margin:0;
+}
+p{
+  margin: 0 0 20px 0;
+}
+#header img{
+  width:280px;
+  display:block;
+  padding:20px;
+}
+#header{
+  background: #027D12;
+}
+#nav{
+  width: 250px;
+  float: left;
+  background: #4CAD08;
+}
+#content{
+  margin-left: 250px;
+  background: #8EBE00;
+  padding: 20px;
+}
+.article {
+  background: #4CAD08;
+}
+#footer{
+  padding: 20px;
+  background: #aaa;
+  text-align: center;
+}
+#footer p{
+  margin: 0;
+}
+.box{
+  width: 33.333%;
+  float: left;
+  background: #ddd;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  padding: 8px;
+}
